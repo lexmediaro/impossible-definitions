@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rules": 27,
+  "issuedAtMs": 1791013775134,
+  "expiresAtMs": 1793605775134,
+  "envelopeSha256": "b312c5598f5ef77a6536f0a53d462e9b572ffe87981625c5efad72c0e7837d78",
+  "publicKeyDerBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsEBTHYKc8+L6E6oSLQovlBLZ8p+cnm/viP9rf1IRIQmyd8CXTxbmsIXTJAUB9J9Lwp4DDkmWDoWCSPXauTiO7Q==",
+  "scope": "27 source-reviewed exact APK indicators: 26 Konfety campaign hashes (July2025) and one historical Unit42 hash. Narrow documented coverage; no package-only or SDK malware verdicts."
+}
