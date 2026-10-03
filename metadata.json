@@ -1,9 +1,9 @@
 {
-  "version": 2,
-  "rules": 27,
-  "issuedAtMs": 1791013775134,
-  "expiresAtMs": 1793605775134,
-  "envelopeSha256": "b312c5598f5ef77a6536f0a53d462e9b572ffe87981625c5efad72c0e7837d78",
+  "version": 3,
+  "rules": 57,
+  "issuedAtMs": 1791015501605,
+  "expiresAtMs": 1793607501605,
+  "envelopeSha256": "13a440b4eef384ee344eaf4668410f6bc84549e22fafe9ab6630c49057df9e27",
   "publicKeyDerBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsEBTHYKc8+L6E6oSLQovlBLZ8p+cnm/viP9rf1IRIQmyd8CXTxbmsIXTJAUB9J9Lwp4DDkmWDoWCSPXauTiO7Q==",
-  "scope": "27 source-reviewed exact APK indicators: 26 Konfety campaign hashes (July2025) and one historical Unit42 hash. Narrow documented coverage; no package-only or SDK malware verdicts."
+  "scope": "57 source-reviewed exact APK indicators: 26 Konfety (2025), 25 Symantec hidden adware (2019), five original-byte verified variants from 2020 Securelist/SonicWall/Bitdefender reports, and one Unit42 (2021). Narrow historical/source-based coverage; earlier five QA samples are disclosed regressions, not held-out proof. No package-only or SDK malware verdicts."
 }

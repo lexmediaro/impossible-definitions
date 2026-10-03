@@ -4,7 +4,7 @@ Signed public detection data for the Impossible Android app. No app inventory, p
 
 ## Coverage
 
-Version2 contains27 exact APK SHA256 indicators:26 from Zimperium zLabs’ July2025 Konfety campaign and one historical Unit42 indicator. This is narrow documented campaign coverage. Advertising SDK presence and an app’s installer are not malware verdicts. An exact match does not prove that an observed popup came from that app.
+Version 3 contains 57 exact APK SHA256 indicators: 26 from Zimperium zLabs’ July2025 Konfety campaign, one historical Unit42 indicator, 25 Symantec-reported historical artifacts, and five additional historical artifacts measured from unchanged APK bytes linked to primary MD5 reports. This is narrow documented campaign coverage. Advertising SDK presence and an app’s installer are not malware verdicts. An exact match does not prove that an observed popup came from that app.
 
 ## Authenticity and updates
 
@@ -25,3 +25,18 @@ Unit42 historical indicator: https://unit42.paloaltonetworks.com/patient-zero-we
 ## Separate SDK inspection data
 
 The app’s neutral Exodus advertising-library database, original input, transformation and attribution are available under [sdk/](sdk/). These signatures are separate from the signed malware-identity feed.
+
+## Historical campaign additions in version 3
+
+Exact historical artifact identifiers are attributed to these primary reports:
+
+- https://www.security.com/threat-intelligence/hidden-adware-google-play (2019-09-23; 25 APK SHA256s)
+- https://securelist.com/in-app-advertising-in-android/97065/ (2020-05-25)
+- https://www.sonicwall.com/blog/android-adware-that-delays-its-advertisements (2020-01-30)
+- https://www.bitdefender.com/en-au/blog/labs/seventeen-android-nasties-spotted-in-google-play-total-over-550k-downloads (2020-01-14)
+
+The latter three reports publish MD5 identifiers. Five distinct additional SHA256s were measured over the same unchanged complete original APK bytes that match those reported MD5s and package context. No MD5 string was converted mathematically to SHA256; 96 unique unresolved MD5 indicators remain excluded. One measured artifact is covered by two reports.
+
+Only attributed factual artifact identifiers and source URLs are distributed here. No report prose, images, original malware APKs, proprietary software, source report files or database compilation is supplied. No vendor licence or endorsement is claimed for these factual historical indicators. Exact affected builds cannot implicate clean updates, legitimate same-label apps or all versions of a package.
+
+The earlier five locally tested original APKs are included as disclosed regression fixtures. Their previous misses remain failures of the earlier one-indicator set. Inclusion here is not fresh independent detection accuracy evidence or proof that archived ad infrastructure is active.
