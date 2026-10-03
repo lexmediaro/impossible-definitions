@@ -1,0 +1,1952 @@
+{
+  "schemaVersion": 1,
+  "snapshotDate": "2026-10-02",
+  "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/export",
+  "sourceSha256": "969564c30ea11b2cbbbea0ed3d1e55dbe9f8ce3903d4a858a42592fc7229faef",
+  "databaseLicense": "ODbL-1.0",
+  "contentsLicense": "DbCL-1.0",
+  "databaseLicenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "contentsLicenseUrl": "https://opendatacommons.org/licenses/dbcl/1-0/",
+  "attribution": "Exodus Privacy / ETIP tracker database; adapted literal advertising-framework signatures.",
+  "interpretation": "Embedded advertising library or packaged reference; not an adware or popup-ownership verdict.",
+  "sourceRecordCount": 715,
+  "rules": [
+    {
+      "id": "0021be4b-460d-4935-a89b-97079f413055",
+      "name": "IQzone",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.iqzone"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/0021be4b-460d-4935-a89b-97079f413055",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "046bef41-c30c-4a69-9fe4-c25ce308097c",
+      "name": "Mintegral",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.mbridge.msdk",
+        "com.mintegral"
+      ],
+      "networkDomains": [
+        "analytics.rayjump.com",
+        "cdn-adn.rayjump.com",
+        "de.rayjump.com",
+        "de01.rayjump.com",
+        "detect.rayjump.com",
+        "fk-mtrack.rayjump.com",
+        "hybird.rayjump.com",
+        "jssdk.rayjump.com",
+        "net.rayjump.com",
+        "online.rayjump.com",
+        "rayjump.com",
+        "setting.rayjump.com",
+        "sg-mtrack.rayjump.com",
+        "sg.rayjump.com",
+        "sg01.rayjump.com",
+        "tknet.rayjump.com",
+        "us01.rayjump.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/046bef41-c30c-4a69-9fe4-c25ce308097c",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "04c7a2ca-f3a5-4458-9ea8-e9a3183757b8",
+      "name": "AnySDK",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.anysdk.framework.AdsWrapper",
+        "com.anysdk.framework.AnalyticsWrapper"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/04c7a2ca-f3a5-4458-9ea8-e9a3183757b8",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "0a13ce01-5f70-43b7-bd56-a28878aad8ec",
+      "name": "AdTrial",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adtrial.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/0a13ce01-5f70-43b7-bd56-a28878aad8ec",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "0baa37c0-1f93-43c7-ae4f-d021c17d0170",
+      "name": "Ad4Screen",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.ad4screen.sdk"
+      ],
+      "networkDomains": [
+        "a4.tl",
+        "accengage.com",
+        "ad4push.com",
+        "ad4screen.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/0baa37c0-1f93-43c7-ae4f-d021c17d0170",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "0be1df31-46ed-4b0f-b788-48149ec36634",
+      "name": "Huawei Mobile Services (HMS) Core",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.huawei.agconnect",
+        "com.huawei.hms.analytics",
+        "com.huawei.hms.flutter.analytics",
+        "com.huawei.hms.location",
+        "com.huawei.hms.plugin.ads",
+        "com.huawei.hms.plugin.analytics",
+        "com.huawei.hms.support.api.push",
+        "com.huawei.updatesdk"
+      ],
+      "networkDomains": [
+        "dbankcloud.cn",
+        "dbankcloud.com",
+        "dbankcloud.ru",
+        "hicloud.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/0be1df31-46ed-4b0f-b788-48149ec36634",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "0d79618e-1c45-4f58-893c-9bc9bc6676e4",
+      "name": "Verve",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.vervewireless.advert"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/0d79618e-1c45-4f58-893c-9bc9bc6676e4",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "0dd56646-7620-4540-982b-fbaaccb0e2a6",
+      "name": "Moat",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.moat.analytics.mobile"
+      ],
+      "networkDomains": [
+        "apx.moatads.com",
+        "geo.moatads.com",
+        "js.moatads.com",
+        "mb.moatads.com",
+        "moat.com",
+        "pixel.moatads.com",
+        "px.moatads.com",
+        "sejs.moatads.com",
+        "yt.moatads.com",
+        "yts.moatads.com",
+        "z.moatads.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/0dd56646-7620-4540-982b-fbaaccb0e2a6",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "0e09440b-9836-4d7b-923d-18769ba5ffb5",
+      "name": "OfferToro",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.offertoro.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/0e09440b-9836-4d7b-923d-18769ba5ffb5",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "10085ad9-e791-454e-a0fb-06d7a846fa51",
+      "name": "AdGem",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adgem.android"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/10085ad9-e791-454e-a0fb-06d7a846fa51",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "136780a2-2fbf-44e1-bf85-75dc32dadd50",
+      "name": "OpenX",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.openx.android_sdk_openx",
+        "com.openx.view.plugplay"
+      ],
+      "networkDomains": [
+        "openx.com",
+        "openx.net",
+        "openx.org",
+        "us-ads.openx.net"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/136780a2-2fbf-44e1-bf85-75dc32dadd50",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "18806796-63ad-4ddb-ada5-9fe653907124",
+      "name": "Admitad",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "ru.tachos.admitadstatisticsdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/18806796-63ad-4ddb-ada5-9fe653907124",
+      "unsupportedSignatures": [
+        ".*\\.admitad.com"
+      ]
+    },
+    {
+      "id": "192256d6-1be5-4bcf-a71e-67525e32aea0",
+      "name": "Kiip",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "me.kiip.sdk"
+      ],
+      "networkDomains": [
+        "kiip.me"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/192256d6-1be5-4bcf-a71e-67525e32aea0",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "19ff820b-60cd-43f5-bb27-c0be76728cff",
+      "name": "Adcenix",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adcenix"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/19ff820b-60cd-43f5-bb27-c0be76728cff",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "1a29bd66-9a94-4a36-8fb1-1b5c1305a566",
+      "name": "Kochava",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.kochava.android.tracker",
+        "com.kochava.base"
+      ],
+      "networkDomains": [
+        "control.kochava.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/1a29bd66-9a94-4a36-8fb1-1b5c1305a566",
+      "unsupportedSignatures": [
+        ".kochavaccpa.",
+        "kvinit\\-prod\\.api\\.kochava\\.com"
+      ]
+    },
+    {
+      "id": "1a500250-f0c4-4018-8701-541f1ad01f96",
+      "name": "MDOTM",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.mdotm.android"
+      ],
+      "networkDomains": [
+        "ads.mdotm.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/1a500250-f0c4-4018-8701-541f1ad01f96",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "1b93d7b6-1b06-4376-a9b5-6fc91df977da",
+      "name": "Upsight",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.upsight.android"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/1b93d7b6-1b06-4376-a9b5-6fc91df977da",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "1f632175-a670-47cb-b4d7-488f100460d8",
+      "name": "myTarget",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.my.target"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/1f632175-a670-47cb-b4d7-488f100460d8",
+      "unsupportedSignatures": [
+        ".target\\.my\\.com"
+      ]
+    },
+    {
+      "id": "209012ee-d097-40ee-8ff8-3ca2d1805e21",
+      "name": "Ooyala",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.ooyala"
+      ],
+      "networkDomains": [
+        "ooyala.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/209012ee-d097-40ee-8ff8-3ca2d1805e21",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "22af3c07-6744-486c-866d-d2947d2e1bb2",
+      "name": "AdFalcon",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.noqoush.adfalcon.android.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/22af3c07-6744-486c-866d-d2947d2e1bb2",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "23e18e56-5093-44c8-87fc-f144d018e732",
+      "name": "Appodeal Stack",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.explorestack"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/23e18e56-5093-44c8-87fc-f144d018e732",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "25d9f4e5-f6b4-4a1d-acbc-326ecbfac693",
+      "name": "Virgo Mobile",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.virgo.ads"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/25d9f4e5-f6b4-4a1d-acbc-326ecbfac693",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "271c8219-8c2f-420d-b6c9-f6c63b3eb192",
+      "name": "HyprMX",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.hyprmx.android.sdk"
+      ],
+      "networkDomains": [
+        "hyprmx.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/271c8219-8c2f-420d-b6c9-f6c63b3eb192",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "2784b765-e59e-462c-b81d-056da0444991",
+      "name": "Anvato (A Google Company)",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Identification",
+        "Location",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.anvato.androidsdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/2784b765-e59e-462c-b81d-056da0444991",
+      "unsupportedSignatures": [
+        ".*\\.anvato\\.net"
+      ]
+    },
+    {
+      "id": "28b8b1c0-3bd8-433b-bee3-f4f0533d8eda",
+      "name": "SuperAwesome",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "tv.superawesome.lib",
+        "tv.superawesome.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/28b8b1c0-3bd8-433b-bee3-f4f0533d8eda",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "29538443-abf6-46a7-b0a2-5e635b08c7d5",
+      "name": "PubMatic",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.pubmatic.sdk"
+      ],
+      "networkDomains": [
+        "ads.pubmatic.com",
+        "aktrack.pubmatic.com",
+        "gads.pubmatic.com",
+        "image2.pubmatic.com",
+        "simage2.pubmatic.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/29538443-abf6-46a7-b0a2-5e635b08c7d5",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "2c209037-1e4f-45a0-9a7c-e010d47a031a",
+      "name": "ComScore",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.comscore"
+      ],
+      "networkDomains": [
+        "comscore.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/2c209037-1e4f-45a0-9a7c-e010d47a031a",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "2ecc7de7-d746-4c90-96f6-c469bb220b1e",
+      "name": "AdAdapted",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.adadapted.android.sdk"
+      ],
+      "networkDomains": [
+        "ads.adadapted.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/2ecc7de7-d746-4c90-96f6-c469bb220b1e",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "30ddf071-e3c4-432f-b68a-a7cfe8318a6d",
+      "name": "AdMuing",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.admuing.danmaku"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/30ddf071-e3c4-432f-b68a-a7cfe8318a6d",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "34390d0b-d387-4c49-8eaf-1e4b2f88657b",
+      "name": "Altamob",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.altamob.sdk"
+      ],
+      "networkDomains": [
+        "api.altamob.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/34390d0b-d387-4c49-8eaf-1e4b2f88657b",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "35bb4458-abf6-4c12-a129-0ef38097af6b",
+      "name": "Instreamatic (Adman)",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.instreamatic"
+      ],
+      "networkDomains": [
+        "instreamatic.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/35bb4458-abf6-4c12-a129-0ef38097af6b",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "363aa586-8e33-4f6b-a9ab-099c97dc8b7b",
+      "name": "CallDorado",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.calldorado.android"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/363aa586-8e33-4f6b-a9ab-099c97dc8b7b",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "3f727b42-b2fa-4704-87fd-d843c05ef320",
+      "name": "Admixer",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.admixer",
+        "net.admixer.sdk"
+      ],
+      "networkDomains": [
+        "admixer.co.kr",
+        "admixer.net"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/3f727b42-b2fa-4704-87fd-d843c05ef320",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "406b33be-01e8-4b3b-9449-60bf4522ac4c",
+      "name": "AdMarvel",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.admarvel"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/406b33be-01e8-4b3b-9449-60bf4522ac4c",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "444a192a-d532-48dd-82fd-51189c017001",
+      "name": "Adjoe",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "io.adjoe.protection",
+        "io.adjoe.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/444a192a-d532-48dd-82fd-51189c017001",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "45478d64-bd25-4402-80c3-e5dfaa3d1f5c",
+      "name": "YuMe",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.yume.android"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/45478d64-bd25-4402-80c3-e5dfaa3d1f5c",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "456bbba4-9724-4eec-9ad7-2cf68baec1b8",
+      "name": "AerServ",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.aerserv.sdk"
+      ],
+      "networkDomains": [
+        "ads.aerserv.com",
+        "debug.aerserv.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/456bbba4-9724-4eec-9ad7-2cf68baec1b8",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "4659d8da-4c1b-4415-8ff7-c08fbe293024",
+      "name": "Airpush",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.airpush"
+      ],
+      "networkDomains": [
+        "api.airpush.com",
+        "apidm.airpush.com",
+        "apistaging.airpush.com",
+        "apportal.airpush.com",
+        "appwall.api.airpush.com",
+        "beta.airpush.com",
+        "cdnap.airpush.com",
+        "m.airpush.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/4659d8da-4c1b-4415-8ff7-c08fbe293024",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "465d0b1b-07a2-401c-81f6-5dbeebf7e8de",
+      "name": "Aarki",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Identification",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.aarki"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/465d0b1b-07a2-401c-81f6-5dbeebf7e8de",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "470055b3-e418-4a38-a133-358c0caba010",
+      "name": "Startapp",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.startapp"
+      ],
+      "networkDomains": [
+        "c2i.startappnetwork.com",
+        "c2s.startappnetwork.com",
+        "click.startappservice.com",
+        "dts.startappservice.com",
+        "events.startappservice.com",
+        "images.startappservice.com",
+        "imp.startappservice.com",
+        "info.static.startappservice.com",
+        "init.startappservice.com",
+        "req.startappservice.com",
+        "soda.startappservice.com",
+        "startappservice.com",
+        "va.origin.startappservice.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/470055b3-e418-4a38-a133-358c0caba010",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "4e62c4a6-4d45-462a-87e5-504344d52c69",
+      "name": "Taplytics",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.taplytics.sdk"
+      ],
+      "networkDomains": [
+        "api.taplytics.com",
+        "ping.tapylitics.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/4e62c4a6-4d45-462a-87e5-504344d52c69",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "580d08cb-7e7c-4da0-bfcd-d80f3acbe589",
+      "name": "Adcash",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adcash.mobileads"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/580d08cb-7e7c-4da0-bfcd-d80f3acbe589",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "58ff3277-cf2b-4687-b40b-d2285405045e",
+      "name": "Apsalar",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.apsalar.sdk"
+      ],
+      "networkDomains": [
+        "e-ssl.apsalar.com",
+        "e.apsalar.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/58ff3277-cf2b-4687-b40b-d2285405045e",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "595723d4-b1df-4606-a818-430d90be72b0",
+      "name": "Verizon Ads",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Identification",
+        "Location",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.oath.mobile",
+        "com.verizon.ads",
+        "com.verizondigitalmedia.mobile"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/595723d4-b1df-4606-a818-430d90be72b0",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "5e4b4803-e38f-43d7-a45b-94bf84ae9f80",
+      "name": "Facebook Ads",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.facebook.ads"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/5e4b4803-e38f-43d7-a45b-94bf84ae9f80",
+      "unsupportedSignatures": [
+        "\\.facebook\\.com"
+      ]
+    },
+    {
+      "id": "607cabc8-8173-4585-9742-4063e6195811",
+      "name": "Adfurikun",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.glossomads.sdk",
+        "jp.tjkapp.adfurikunsdk"
+      ],
+      "networkDomains": [
+        "adfurikun.jp",
+        "ginf.adfurikun.jp"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/607cabc8-8173-4585-9742-4063e6195811",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "61ee93c4-0c1b-4682-a60b-9acd662c73f8",
+      "name": "AD(X)",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adxcorp.ads",
+        "com.adxcorp.nativead"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/61ee93c4-0c1b-4682-a60b-9acd662c73f8",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "6280a397-8d78-4129-be2b-2fc5fec13a87",
+      "name": "Actv8me",
+      "categories": [
+        "Advertisement",
+        "Identification",
+        "Location",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "me.actv8"
+      ],
+      "networkDomains": [
+        "actv8technologies.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/6280a397-8d78-4129-be2b-2fc5fec13a87",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "6335bf34-3fe6-44b2-888a-b49919d47087",
+      "name": "TNK Factory",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.tnkfactory.ad"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/6335bf34-3fe6-44b2-888a-b49919d47087",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "64d65621-68c2-4e33-8d74-4ddb0f4f8b7c",
+      "name": "AdColony",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adcolony",
+        "com.jirbo.adcolony"
+      ],
+      "networkDomains": [
+        "adc3-launch.adcolony.com",
+        "adcolony.com",
+        "ads30.adcolony.com",
+        "androidads20.adcolony.com",
+        "androidads21.adcolony.com",
+        "androidads23.adcolony.com",
+        "events3alt.adcolony.com",
+        "wd.adcolony.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/64d65621-68c2-4e33-8d74-4ddb0f4f8b7c",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "660e5bd4-13bd-40a7-ad67-5306f0538cac",
+      "name": "Ad Generation",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.socdm.d.adgeneration"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/660e5bd4-13bd-40a7-ad67-5306f0538cac",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "665f18ac-fdda-4109-b4fa-24c54dda6961",
+      "name": "Prebid Mobile",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "org.prebid.mobile"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/665f18ac-fdda-4109-b4fa-24c54dda6961",
+      "unsupportedSignatures": [
+        ".prebid.org"
+      ]
+    },
+    {
+      "id": "6aebc8a7-3366-4a5d-904e-a54e6cda9b94",
+      "name": "Solar2D (Corona)",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.ansca.corona"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/6aebc8a7-3366-4a5d-904e-a54e6cda9b94",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "6c259bea-c9ee-4cae-862d-0415dbf96408",
+      "name": "Zapr",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.redbricklane.zapr"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/6c259bea-c9ee-4cae-862d-0415dbf96408",
+      "unsupportedSignatures": [
+        ".zapr\\.in"
+      ]
+    },
+    {
+      "id": "6d99360d-fe9b-42fc-9442-87927cf96aed",
+      "name": "Pincrux",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.pincrux"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/6d99360d-fe9b-42fc-9442-87927cf96aed",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "73d49ea7-cf4b-4c5a-868f-26a6c9e4c5b5",
+      "name": "FreeWheel",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "tv.freewheel.ad"
+      ],
+      "networkDomains": [
+        "fwmrm.net"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/73d49ea7-cf4b-4c5a-868f-26a6c9e4c5b5",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "74dd1fc9-7818-439f-8c38-b451484f1374",
+      "name": "Yinzcam Sobek",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.yinzcam.sobek"
+      ],
+      "networkDomains": [
+        "analytics.yinzcam.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/74dd1fc9-7818-439f-8c38-b451484f1374",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "76cc0225-0893-4a89-bf28-a6339894b8f0",
+      "name": "AppVador",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.appvador.ads"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/76cc0225-0893-4a89-bf28-a6339894b8f0",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "77de2294-22b0-4a72-9cb3-2f596e72e5ef",
+      "name": "Vdopia",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.vdopia.ads",
+        "com.vdopia.client.android"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/77de2294-22b0-4a72-9cb3-2f596e72e5ef",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "7af9c3e5-bed5-46ad-8549-ef5fa0e97443",
+      "name": "Pangle",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.bytedance",
+        "com.pangle.global",
+        "com.pgl"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/7af9c3e5-bed5-46ad-8549-ef5fa0e97443",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "7c094493-ee4f-4f11-955a-7ff2b6c6a521",
+      "name": "Alimama (formerly AdsMogo)",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adsmogo",
+        "com.alimama"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/7c094493-ee4f-4f11-955a-7ff2b6c6a521",
+      "unsupportedSignatures": [
+        "\\.alimama\\.",
+        "\\.adsmogo\\."
+      ]
+    },
+    {
+      "id": "7c31c3b9-08b6-4b76-94a9-d44791b1d186",
+      "name": "Receptiv (formerly Mediabrix)",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.mediabrix.android"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/7c31c3b9-08b6-4b76-94a9-d44791b1d186",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "7c37cd76-bdd0-48a2-a778-73decf2862bc",
+      "name": "Inneractive",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.inneractive.api.ads"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/7c37cd76-bdd0-48a2-a778-73decf2862bc",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "7d9c0588-4e97-46ef-8ba5-c14289d35bf9",
+      "name": "Revmob",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.revmob.ads"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/7d9c0588-4e97-46ef-8ba5-c14289d35bf9",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "7ef59577-665a-4e28-a7cf-ea86a25d76ae",
+      "name": "SK planet Tad",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.skplanet.tad"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/7ef59577-665a-4e28-a7cf-ea86a25d76ae",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "7f24b733-37d3-467b-b340-ae5a9eed3a5e",
+      "name": "Cauly",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.cauly.android.ad",
+        "com.fsn.cauly",
+        "com.trid.tridad"
+      ],
+      "networkDomains": [
+        "ad.cauly.co.kr"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/7f24b733-37d3-467b-b340-ae5a9eed3a5e",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "80be4fd2-3eaa-47d1-b23b-5eeed418b87e",
+      "name": "Cifrasoft",
+      "categories": [
+        "Advertisement",
+        "Identification",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.cifrasoft"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/80be4fd2-3eaa-47d1-b23b-5eeed418b87e",
+      "unsupportedSignatures": [
+        "\\.tele\\.fm"
+      ]
+    },
+    {
+      "id": "8392309f-3cc0-48aa-9c71-eefe488b4ac6",
+      "name": "AdTiming",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adtiming",
+        "com.aiming.mdt"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/8392309f-3cc0-48aa-9c71-eefe488b4ac6",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "86a09b3b-adc4-4e3a-9bf0-1b9b085e986c",
+      "name": "Metaps",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.metaps"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/86a09b3b-adc4-4e3a-9bf0-1b9b085e986c",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "86b81622-61e4-46d6-a4c1-e98337a2213f",
+      "name": "JumpTap",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.jumptap.adtag"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/86b81622-61e4-46d6-a4c1-e98337a2213f",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "87ce6387-1707-4ba4-aea2-9188fb1635eb",
+      "name": "Geniee",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "jp.co.geniee.gnadsdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/87ce6387-1707-4ba4-aea2-9188fb1635eb",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "8a14d844-1866-4609-bb1b-41448530d2dc",
+      "name": "KIDOZ",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.kidoz.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/8a14d844-1866-4609-bb1b-41448530d2dc",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "8c84621f-442c-44ab-85da-00453f4e8e49",
+      "name": "Teads",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "teads.tv",
+        "tv.teads"
+      ],
+      "networkDomains": [
+        "teads.tv"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/8c84621f-442c-44ab-85da-00453f4e8e49",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "8d902567-36fe-447d-9a2c-4cb67d71f84c",
+      "name": "AdBuddiz",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.purplebrain.adbuddiz.sdk"
+      ],
+      "networkDomains": [
+        "sdk.adbuddiz.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/8d902567-36fe-447d-9a2c-4cb67d71f84c",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "901597f7-ea1c-467b-bb9f-a1a7e9fc6741",
+      "name": "RjFun",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.rjfun.cordova.ad",
+        "com.rjfun.cordova.admob"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/901597f7-ea1c-467b-bb9f-a1a7e9fc6741",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "963e2de5-c79c-4aa2-a55f-8e116ef51e26",
+      "name": "IAB Open Measurement",
+      "categories": [
+        "Advertisement",
+        "Identification"
+      ],
+      "codePackagePrefixes": [
+        "com.iab.omid.library",
+        "com.prime31.IAB",
+        "com.prime31.util.IabHelperImpl"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/963e2de5-c79c-4aa2-a55f-8e116ef51e26",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "97d5f78f-6af1-488d-9c65-7409d903285f",
+      "name": "LoopMe",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.loopme"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/97d5f78f-6af1-488d-9c65-7409d903285f",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "99bd5ba3-bedd-43a6-b04d-a677699b271f",
+      "name": "Vpon",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.vpadn.ads",
+        "com.vpadn.analytics",
+        "com.vpadn.widget",
+        "com.vpon.ads"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/99bd5ba3-bedd-43a6-b04d-a677699b271f",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "a0deef82-5622-4434-9be6-b24c7a28190f",
+      "name": "PredicIO",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Identification",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.telescope.android",
+        "io.predic.tracker"
+      ],
+      "networkDomains": [
+        "sdk.predic.io"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/a0deef82-5622-4434-9be6-b24c7a28190f",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "a402a432-09e4-4208-bef9-b200e906ab37",
+      "name": "Admost",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "admost.adserver",
+        "admost.sdk"
+      ],
+      "networkDomains": [
+        "go.admost.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/a402a432-09e4-4208-bef9-b200e906ab37",
+      "unsupportedSignatures": [
+        "cdn\\-api\\.admost\\.com",
+        "med\\-api\\.admost\\.com"
+      ]
+    },
+    {
+      "id": "a5b6d176-4c4a-4161-bd7c-bd80513ee783",
+      "name": "mediba",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.mediba.jp",
+        "mediba.ad.sdk.android.openx"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/a5b6d176-4c4a-4161-bd7c-bd80513ee783",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "a95be555-9324-4fac-b0b8-4d1146d88a52",
+      "name": "Braze (formerly Appboy)",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.appboy"
+      ],
+      "networkDomains": [
+        "appboy.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/a95be555-9324-4fac-b0b8-4d1146d88a52",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "aa6d0d88-7782-451a-b21c-58d900e3d714",
+      "name": "Tapdaq",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.tapdaq.adapters",
+        "com.tapdaq.sdk"
+      ],
+      "networkDomains": [
+        "ads.tapdaq.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/aa6d0d88-7782-451a-b21c-58d900e3d714",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "abd1958e-d156-457f-9a70-653b312d8ffb",
+      "name": "Tappx",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.tappx.sdk.android"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/abd1958e-d156-457f-9a70-653b312d8ffb",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "ac9e4300-5e60-4baf-9022-456cc87ac381",
+      "name": "Veloxity",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "net.veloxity"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/ac9e4300-5e60-4baf-9022-456cc87ac381",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "ad43e5a2-34b8-4c9a-8616-1e02f9573211",
+      "name": "Vungle",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.vungle.publisher",
+        "com.vungle.warren"
+      ],
+      "networkDomains": [
+        "ads.api.vungle.com",
+        "api.vungle.akadns.net",
+        "api.vungle.com",
+        "bd.vungle.com",
+        "billboard.vungle.com",
+        "ci.vungle.com",
+        "data.vungle.com",
+        "ingest.vungle.com",
+        "jaeger.vungle.com",
+        "monitoring.vungle.com",
+        "ssl.vungle.com",
+        "v.vungle.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/ad43e5a2-34b8-4c9a-8616-1e02f9573211",
+      "unsupportedSignatures": [
+        "akamai\\.vungle\\-cdn\\.vungle\\.com",
+        "cdn\\-lb\\.vungle\\.com",
+        "ltv\\-data\\-api\\.kube\\-prod\\.vungle\\.com"
+      ]
+    },
+    {
+      "id": "addd0376-0c1a-46e9-80b6-65c266984df1",
+      "name": "Moodmedia",
+      "categories": [
+        "Advertisement",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.moodmedia"
+      ],
+      "networkDomains": [
+        "moodpresence.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/addd0376-0c1a-46e9-80b6-65c266984df1",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "aed4e334-17ac-4cc5-8c3f-135b4528ff75",
+      "name": "POKKT",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.pokkt.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/aed4e334-17ac-4cc5-8c3f-135b4528ff75",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "aee749fc-0d1b-4394-b839-8ef84f40b908",
+      "name": "Carto (formerly Nutiteq)",
+      "categories": [
+        "Advertisement",
+        "Location"
+      ],
+      "codePackagePrefixes": [
+        "com.carto",
+        "com.nutiteq"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/aee749fc-0d1b-4394-b839-8ef84f40b908",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "af058121-80e0-4a54-97ee-d234a0fd8a26",
+      "name": "MobPower",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.mobpower"
+      ],
+      "networkDomains": [
+        "api.mobpowertech.com",
+        "log.mobpowertech.com",
+        "mobpowertech.com",
+        "scheme.mobpowertech.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/af058121-80e0-4a54-97ee-d234a0fd8a26",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "b407fae5-8a1d-410e-87d3-7de6babd4fc1",
+      "name": "Yoadx",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.yoadx.yoadx"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/b407fae5-8a1d-410e-87d3-7de6babd4fc1",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "b73b0d0b-5649-4457-abf8-df6695505dba",
+      "name": "Snap Ad Kit",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.snap.adkit",
+        "com.snap.appadskit"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/b73b0d0b-5649-4457-abf8-df6695505dba",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "b8d6f596-07db-4847-82dc-50fd7f04fc11",
+      "name": "360Dialog",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Identification",
+        "Location",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.threesixtydialog.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/b8d6f596-07db-4847-82dc-50fd7f04fc11",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "bdbcf4cc-2748-400a-aaaf-175bc1374690",
+      "name": "BuzzAd Benefit",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.buzzvil"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/bdbcf4cc-2748-400a-aaaf-175bc1374690",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "c1d83f86-f455-47af-a0c9-0efc36d77b4d",
+      "name": "Flurry",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.flurry"
+      ],
+      "networkDomains": [
+        "flurry.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/c1d83f86-f455-47af-a0c9-0efc36d77b4d",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "c2d5fd5e-1e1c-4f6b-9a3f-f3dba476da32",
+      "name": "DOV-E",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.dv.DVSDK"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/c2d5fd5e-1e1c-4f6b-9a3f-f3dba476da32",
+      "unsupportedSignatures": [
+        "\\.dov-e\\.com"
+      ]
+    },
+    {
+      "id": "c617eeb7-bdc1-46c4-83fb-05c5991daa35",
+      "name": "PingStart",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.pingstart.adsdk"
+      ],
+      "networkDomains": [
+        "api.pingstart.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/c617eeb7-bdc1-46c4-83fb-05c5991daa35",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "c6903d3e-34e2-4233-98e9-e0bf3f3994a5",
+      "name": "Synerise",
+      "categories": [
+        "Advertisement",
+        "Identification",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.synerise.sdk"
+      ],
+      "networkDomains": [
+        "synerise.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/c6903d3e-34e2-4233-98e9-e0bf3f3994a5",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "c7684d10-b2d1-4a27-9a11-4300830e844e",
+      "name": "AdLocus",
+      "categories": [
+        "Advertisement",
+        "Identification",
+        "Location",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.adlocus"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/c7684d10-b2d1-4a27-9a11-4300830e844e",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "c9c66677-b1c9-4334-ba25-55fdff9e5fd0",
+      "name": "MobFox",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.adsdk.sdk",
+        "com.mobfox"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/c9c66677-b1c9-4334-ba25-55fdff9e5fd0",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "cddf007e-f28d-440e-8b4b-146817be93f9",
+      "name": "YOC VIS.X",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.yoc.visx"
+      ],
+      "networkDomains": [
+        "yoc-performance.com",
+        "yoc.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/cddf007e-f28d-440e-8b4b-146817be93f9",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "cf515dcf-fb55-4bab-bc29-e39937a0e171",
+      "name": "PubNative",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "net.pubnative"
+      ],
+      "networkDomains": [
+        "pubnative.net"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/cf515dcf-fb55-4bab-bc29-e39937a0e171",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "d82d6077-d261-4bd6-968b-d3785f15baa9",
+      "name": "TalkingData",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.apptalkingdata.push",
+        "com.gametalkingdata.push",
+        "com.talkingdata.adtracking",
+        "com.talkingdata.appanalytics",
+        "com.talkingdata.sdk",
+        "com.tendcloud.appcpa",
+        "com.tendcloud.tenddata"
+      ],
+      "networkDomains": [
+        "account.talkingdata.com",
+        "av1.xdrig.com",
+        "cloud.xdrig.com",
+        "m.talkingdata.com",
+        "push.xdrig.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/d82d6077-d261-4bd6-968b-d3785f15baa9",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "d9ee22e1-3e8b-459e-8f6f-56e7a75cdb10",
+      "name": "IBM Mobile Marketing (Acoustic)",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "co.acoustic.mobile.push.sdk",
+        "com.ibm.mce.sdk",
+        "com.xtify.android.sdk",
+        "com.xtify.mce.sdk"
+      ],
+      "networkDomains": [
+        "sdk6.ibm.xtify.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/d9ee22e1-3e8b-459e-8f6f-56e7a75cdb10",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "da58d47c-94d3-4cbb-af85-1ae5a17c3f3e",
+      "name": "fineboost",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.fineboost"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/da58d47c-94d3-4cbb-af85-1ae5a17c3f3e",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "dbe12b8d-ba47-44c1-a113-bb197781d97d",
+      "name": "adPOPcorn",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.igaworks.adpopcorn",
+        "com.igaworks.ssp"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/dbe12b8d-ba47-44c1-a113-bb197781d97d",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "dd100aeb-b5d0-4e82-af0a-abda62b7d172",
+      "name": "AppLovin (MAX and SparkLabs)",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Identification",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.applovin"
+      ],
+      "networkDomains": [
+        "applovin.com",
+        "applvn.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/dd100aeb-b5d0-4e82-af0a-abda62b7d172",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "dd1c3748-8678-4db9-8e08-7f9d0aa8c938",
+      "name": "AdGateMedia",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.adgatemedia"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/dd1c3748-8678-4db9-8e08-7f9d0aa8c938",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "dda69279-76d8-4e96-9bdc-bd93ccb1906f",
+      "name": "Fyber",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.fyber"
+      ],
+      "networkDomains": [
+        "adproxy.fyber.com",
+        "appengage-video.fyber.com",
+        "banner.fyber.com",
+        "engine.fyber.com",
+        "interstitial.fyber.com",
+        "mbe-cdn.fyber.com",
+        "offer.fyber.com",
+        "service.fyber.com",
+        "tracker.fyber.com",
+        "video-interstitial-assets-cdn.fyber.com",
+        "video.fyber.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/dda69279-76d8-4e96-9bdc-bd93ccb1906f",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "de9a2cfb-cb64-451b-9df3-f7f8e21098e0",
+      "name": "GOM Factory AdPie",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.gomfactory.adpie"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/de9a2cfb-cb64-451b-9df3-f7f8e21098e0",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "df18f027-6b5c-4808-8211-140d5872fbcf",
+      "name": "AppsGeyser",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.appsgeyser.multiTabApp.VideoPlayerActivity",
+        "com.appsgeyser.sdk"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/df18f027-6b5c-4808-8211-140d5872fbcf",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "e0fb36bb-8473-4bd6-9838-a6afcd47c72b",
+      "name": "Unity3d Ads",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.unity3d.ads",
+        "com.unity3d.services"
+      ],
+      "networkDomains": [
+        "adserver.unityads.unity3d.com",
+        "analytics.social.unity.com",
+        "api.uca.cloud.unity3d.com",
+        "auction.unityads.unity3d.com",
+        "cdn-highwinds.unityads.unity3d.com",
+        "cdn.unityads.unity3d.com",
+        "config.uca.cloud.unity3d.com",
+        "config.unityads.unity3d.com",
+        "stats.unity3d.com",
+        "webview.unityads.unity3d.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/e0fb36bb-8473-4bd6-9838-a6afcd47c72b",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "e1c8cb6b-6ec5-4f76-beb8-f7eb961c2bc1",
+      "name": "Coulus Coelib",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "coelib.c.couluslibrary"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/e1c8cb6b-6ec5-4f76-beb8-f7eb961c2bc1",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "e3334da8-dacd-47d7-aa59-40db16dea8d0",
+      "name": "Beintoo",
+      "categories": [
+        "Advertisement",
+        "Analytics",
+        "Location",
+        "Profiling"
+      ],
+      "codePackagePrefixes": [
+        "com.beintoo.nucleon"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/e3334da8-dacd-47d7-aa59-40db16dea8d0",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "e63edefa-1318-4d08-8bc8-9cd21209fd1b",
+      "name": "BidMachine",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "io.bidmachine"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/e63edefa-1318-4d08-8bc8-9cd21209fd1b",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "e9c80f4c-cf20-4a7b-8aa0-4db002597a21",
+      "name": "Google AdMob",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.google.ads",
+        "com.google.android.ads",
+        "com.google.android.gms.admob",
+        "com.google.android.gms.ads.AdActivity",
+        "com.google.android.gms.ads.AdRequest",
+        "com.google.android.gms.ads.AdView",
+        "com.google.android.gms.ads.doubleclick",
+        "com.google.android.gms.ads.mediation",
+        "com.google.firebase.firebase_ads",
+        "com.google.unity.ads"
+      ],
+      "networkDomains": [
+        "2mdn.net",
+        "ads.google.com",
+        "adservice.g.cn",
+        "dmtry.com",
+        "doubleclick.com",
+        "doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "googlesyndication.com",
+        "mng-ads.com",
+        "mobileads.google.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/e9c80f4c-cf20-4a7b-8aa0-4db002597a21",
+      "unsupportedSignatures": [
+        "adservice\\.google\\..*"
+      ]
+    },
+    {
+      "id": "eb261bf9-c88e-46c1-a639-45371160f62e",
+      "name": "nend",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "net.nend.android",
+        "net.nend.unity"
+      ],
+      "networkDomains": [],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/eb261bf9-c88e-46c1-a639-45371160f62e",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "f13a5380-8225-40d4-ba27-ff2cd220090e",
+      "name": "Twitter MoPub",
+      "categories": [
+        "Advertisement",
+        "Analytics"
+      ],
+      "codePackagePrefixes": [
+        "com.mopub"
+      ],
+      "networkDomains": [
+        "mopub.com"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/f13a5380-8225-40d4-ba27-ff2cd220090e",
+      "unsupportedSignatures": []
+    },
+    {
+      "id": "fcb85a21-c2fe-4260-bc27-5121a409cf49",
+      "name": "Yandex Ad",
+      "categories": [
+        "Advertisement"
+      ],
+      "codePackagePrefixes": [
+        "com.yandex.mobile.ads"
+      ],
+      "networkDomains": [
+        "analytics.mobile.yandex.net",
+        "appmetrica.yandex.com",
+        "banners-slb.mobile.yandex.net",
+        "banners.mobile.yandex.net",
+        "mc.yandex.ru",
+        "report.appmetrica.yandex.net",
+        "startup.mobile.yandex.net"
+      ],
+      "sourceUrl": "https://etip.exodus-privacy.eu.org/trackers/fcb85a21-c2fe-4260-bc27-5121a409cf49",
+      "unsupportedSignatures": []
+    }
+  ],
+  "excluded": []
+}

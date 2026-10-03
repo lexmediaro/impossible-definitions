@@ -21,3 +21,7 @@ Zimperium’s published terms invite downloading and integrating indicators for 
 The legitimate mimicked package list is excluded. No vendor report prose, illustrations, malware samples or proprietary tools are included. No vendor endorsement is implied.
 
 Unit42 historical indicator: https://unit42.paloaltonetworks.com/patient-zero-web-threats/ ; original MIT IoC notice accompanies this feed.
+
+## Separate SDK inspection data
+
+The app’s neutral Exodus advertising-library database, original input, transformation and attribution are available under [sdk/](sdk/). These signatures are separate from the signed malware-identity feed.
