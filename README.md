@@ -1,10 +1,10 @@
-# Impossible reviewed adware definitions
+# Impossible Adware Remover — reviewed definitions
 
-Signed public detection data for the Impossible Android app. No app inventory, personal data, APK samples or private signing key are stored here.
+Signed public detection data for the Impossible Adware Remover Android app. No app inventory, personal data, APK samples or private signing key are stored here.
 
 ## Coverage
 
-Version 3 contains 57 exact APK SHA256 indicators: 26 from Zimperium zLabs’ July2025 Konfety campaign, one historical Unit42 indicator, 25 Symantec-reported historical artifacts, and five additional historical artifacts measured from unchanged APK bytes linked to primary MD5 reports. This is narrow documented campaign coverage. Advertising SDK presence and an app’s installer are not malware verdicts. An exact match does not prove that an observed popup came from that app.
+Version 4 contains 61 exact APK SHA256 indicators: 26 from Zimperium zLabs’ July2025 Konfety campaign, one historical Unit42 indicator, 25 Symantec-reported historical artifacts, five additional historical artifacts measured from unchanged APK bytes linked to primary MD5 reports, and four Jamf-reported MobiDash APKs from May2026. This is narrow documented campaign coverage. Advertising SDK presence and an app’s installer are not malware verdicts. An exact match does not prove that an observed popup came from that app.
 
 ## Authenticity and updates
 
@@ -40,3 +40,10 @@ The latter three reports publish MD5 identifiers. Five distinct additional SHA25
 Only attributed factual artifact identifiers and source URLs are distributed here. No report prose, images, original malware APKs, proprietary software, source report files or database compilation is supplied. No vendor licence or endorsement is claimed for these factual historical indicators. Exact affected builds cannot implicate clean updates, legitimate same-label apps or all versions of a package.
 
 The earlier five locally tested original APKs are included as disclosed regression fixtures. Their previous misses remain failures of the earlier one-indicator set. Inclusion here is not fresh independent detection accuracy evidence or proof that archived ad infrastructure is active.
+
+## MobiDash additions in version 4
+
+Four exact whole-APK SHA256 facts are attributed to Jamf Threat Labs’ May13,2026 report:
+https://www.jamf.com/blog/mobidash-android-ad-fraud-click-injection-analysis/
+
+Only factual artifact identifiers and the source URL are included. No report prose, images, software or original APKs are distributed; no vendor licence or endorsement is claimed. These four additions have not been tested against acquired original samples. They do not match an entire package, signer, advertising SDK or unreported variant. Source-reported adware classification does not prove ownership of a current popup. The previous57 exact rule objects are unchanged.

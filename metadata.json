@@ -1,9 +1,9 @@
 {
-  "version": 3,
-  "rules": 57,
-  "issuedAtMs": 1791015501605,
-  "expiresAtMs": 1793607501605,
-  "envelopeSha256": "13a440b4eef384ee344eaf4668410f6bc84549e22fafe9ab6630c49057df9e27",
+  "version": 4,
+  "rules": 61,
+  "issuedAtMs": 1791120112441,
+  "expiresAtMs": 1793712112441,
+  "envelopeSha256": "4613298ee91a67b6ee5926e5e184c12b97f167b1dd124c1c42301b424d76e4ca",
   "publicKeyDerBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsEBTHYKc8+L6E6oSLQovlBLZ8p+cnm/viP9rf1IRIQmyd8CXTxbmsIXTJAUB9J9Lwp4DDkmWDoWCSPXauTiO7Q==",
-  "scope": "57 source-reviewed exact APK indicators: 26 Konfety (2025), 25 Symantec hidden adware (2019), five original-byte verified variants from 2020 Securelist/SonicWall/Bitdefender reports, and one Unit42 (2021). Narrow historical/source-based coverage; earlier five QA samples are disclosed regressions, not held-out proof. No package-only or SDK malware verdicts."
+  "scope": "61 source-reviewed exact APK indicators: existing 57 preserved plus four Jamf source-reported MobiDash whole-APK SHA256 facts (May 2026). Narrow source-based coverage; no per-APK live popup proof, package-only or SDK malware verdicts. Earlier original samples remain disclosed historical regressions, not held-out accuracy evidence."
 }
