@@ -1,9 +1,9 @@
 {
-  "version": 4,
-  "rules": 61,
-  "issuedAtMs": 1791120112441,
-  "expiresAtMs": 1793712112441,
-  "envelopeSha256": "4613298ee91a67b6ee5926e5e184c12b97f167b1dd124c1c42301b424d76e4ca",
-  "publicKeyDerBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsEBTHYKc8+L6E6oSLQovlBLZ8p+cnm/viP9rf1IRIQmyd8CXTxbmsIXTJAUB9J9Lwp4DDkmWDoWCSPXauTiO7Q==",
-  "scope": "61 source-reviewed exact APK indicators: existing 57 preserved plus four Jamf source-reported MobiDash whole-APK SHA256 facts (May 2026). Narrow source-based coverage; no per-APK live popup proof, package-only or SDK malware verdicts. Earlier original samples remain disclosed historical regressions, not held-out accuracy evidence."
+  "version": 5,
+  "rules": 568,
+  "issuedAtMs": 1791233152595,
+  "expiresAtMs": 1793825152595,
+  "envelopeSha256": "4dbd55af8dd9cf42e9691d194aed1e311b27c39a1fc0c66bda85cde2c421c9e6",
+  "publicKeyDerBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESCr9qvh8BcGbKu2oQ7t+SL97U8o1xeQoVOr5h4mM6b3EY5+kWe0N85JQmHzfrZYyeKKzOykX/8Z6JfwUPKaFyg==",
+  "scope": "98 source-reviewed exact APK indicators (version 4's 61 plus 37 Zimperium-published Necro.N whole-APK SHA256 facts) and 470 package-name advisories from the Vapor and IconAds campaigns, shown only as suspicious apps. Narrow source-based coverage; no per-APK live popup proof, package-only or SDK malware verdicts. Earlier original samples remain disclosed historical regressions, not held-out accuracy evidence."
 }

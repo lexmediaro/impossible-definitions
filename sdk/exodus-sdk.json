@@ -112,14 +112,7 @@
         "Location"
       ],
       "codePackagePrefixes": [
-        "com.huawei.agconnect",
-        "com.huawei.hms.analytics",
-        "com.huawei.hms.flutter.analytics",
-        "com.huawei.hms.location",
-        "com.huawei.hms.plugin.ads",
-        "com.huawei.hms.plugin.analytics",
-        "com.huawei.hms.support.api.push",
-        "com.huawei.updatesdk"
+        "com.huawei.hms.plugin.ads"
       ],
       "networkDomains": [
         "dbankcloud.cn",
@@ -980,7 +973,7 @@
         "Advertisement"
       ],
       "codePackagePrefixes": [
-        "com.bytedance",
+        "com.bytedance.sdk.openadsdk",
         "com.pangle.global",
         "com.pgl"
       ],
@@ -1948,5 +1941,33 @@
       "unsupportedSignatures": []
     }
   ],
-  "excluded": []
+  "excluded": [],
+  "localAdjustments": [
+    {
+      "id": "0be1df31-46ed-4b0f-b788-48149ec36634",
+      "name": "Huawei Mobile Services (HMS) Core",
+      "removedPrefixes": [
+        "com.huawei.agconnect",
+        "com.huawei.hms.analytics",
+        "com.huawei.hms.flutter.analytics",
+        "com.huawei.hms.location",
+        "com.huawei.hms.plugin.analytics",
+        "com.huawei.hms.support.api.push",
+        "com.huawei.updatesdk"
+      ],
+      "addedPrefixes": [],
+      "reason": "Location, push, analytics and update components are not advertising; only the ads plugin prefix is kept."
+    },
+    {
+      "id": "7af9c3e5-bed5-46ad-8549-ef5fa0e97443",
+      "name": "Pangle",
+      "removedPrefixes": [
+        "com.bytedance"
+      ],
+      "addedPrefixes": [
+        "com.bytedance.sdk.openadsdk"
+      ],
+      "reason": "Vendor-wide prefix matched non-advertising ByteDance apps; narrowed to the Pangle ad SDK package."
+    }
+  ]
 }

@@ -9,3 +9,5 @@ The adapted advertising-library database (`exodus-sdk.json`) is available under 
     python3 prepare_sdk_definitions.py --source source-trackers.json --output reproduced.json
 
 119 advertising SDK signatures are included. Finding one means code or a packaged reference is present. It does not establish execution, a network connection, popup ownership or malware. These are not 119 adware verdict rules.
+
+Local narrowing (from 2026-10-06): Pangle's vendor-wide `com.bytedance` prefix is replaced by `com.bytedance.sdk.openadsdk`, and HMS Core keeps only its ads plugin prefix. Every change is listed in `exodus-sdk.json` under `localAdjustments` and implemented in `prepare_sdk_definitions.py`.

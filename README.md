@@ -4,7 +4,16 @@ Signed public detection data for the Impossible Adware Remover Android app. No a
 
 ## Coverage
 
-Version 4 contains 61 exact APK SHA256 indicators: 26 from Zimperium zLabs’ July2025 Konfety campaign, one historical Unit42 indicator, 25 Symantec-reported historical artifacts, five additional historical artifacts measured from unchanged APK bytes linked to primary MD5 reports, and four Jamf-reported MobiDash APKs from May2026. This is narrow documented campaign coverage. Advertising SDK presence and an app’s installer are not malware verdicts. An exact match does not prove that an observed popup came from that app.
+Version 5 contains 568 rules:
+
+- 98 exact APK SHA256 indicators: 26 from Zimperium zLabs' July 2025 Konfety campaign, 37 from Zimperium's Necro.N campaign, one historical Unit42 indicator, 25 Symantec-reported historical artifacts, five historical artifacts measured from unchanged APK bytes linked to primary MD5 reports, and four Jamf-reported MobiDash APKs from May 2026.
+- 470 package-name advisories from Bitdefender's Vapor (March 2025) and HUMAN Satori's IconAds (July 2025) campaigns. The app shows these only as "suspicious app", never as a confirmed detection, because earlier clean versions can share a package name.
+
+This is documented campaign coverage, not a complete adware database. Advertising SDK presence and an app's installer are not malware verdicts. An exact match does not prove that an observed popup came from that app.
+
+### Signing key change in version 5
+
+Version 5 is signed with a new key (`impossible-offline-v2`). App builds from version 5 onward trust only this key; older test builds keep their bundled definitions until updated.
 
 ## Authenticity and updates
 
@@ -21,6 +30,10 @@ Zimperium’s published terms invite downloading and integrating indicators for 
 The legitimate mimicked package list is excluded. No vendor report prose, illustrations, malware samples or proprietary tools are included. No vendor endorsement is implied.
 
 Unit42 historical indicator: https://unit42.paloaltonetworks.com/patient-zero-web-threats/ ; original MIT IoC notice accompanies this feed.
+
+Zimperium Necro.N campaign: https://zimperium.com/blog/the-necro-n-chronicles-volume-101 ; pinned indicators: https://github.com/Zimperium/IOC/blob/17c1b2ff70e65eb8d3de44ccc1c0106822523aa5/2024-10-Necro.N/apks.csv (same defensive-use terms as above).
+
+Vapor campaign (Bitdefender Labs): https://www.bitdefender.com/en-au/blog/labs/malicious-google-play-apps-bypassed-android-security ; IconAds (HUMAN Satori): https://www.humansecurity.com/learn/blog/satori-threat-intelligence-alert-iconads/ . Their published package names are used as attributed facts for suspicious-app advisories only. Neither publisher grants a licence or endorses this project; any rule will be withdrawn on request.
 
 ## Separate SDK inspection data
 
