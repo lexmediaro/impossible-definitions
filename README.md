@@ -2,6 +2,10 @@
 
 Signed public detection data for the Impossible Adware Remover Android app. No app inventory, personal data, APK samples or private signing key are stored here.
 
+- **Website:** [stoppopups.app](https://stoppopups.app)
+- **Search this list in your browser:** [Android adware list](https://stoppopups.app/android-adware-list/), every app named in these campaigns with a link to its source report
+- **The app:** [Impossible Adware Remover on Google Play](https://play.google.com/store/apps/details?id=ro.lexglobal.impossible)
+
 ## Coverage
 
 Version 5 contains 568 rules:
