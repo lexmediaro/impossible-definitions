@@ -8,7 +8,7 @@ Signed public detection data for the Impossible Adware Remover Android app. No a
 
 ## Coverage
 
-Version 5 contains 568 rules:
+Version 6 contains 568 rules:
 
 - 98 exact APK SHA256 indicators: 26 from Zimperium zLabs' July 2025 Konfety campaign, 37 from Zimperium's Necro.N campaign, one historical Unit42 indicator, 25 Symantec-reported historical artifacts, five historical artifacts measured from unchanged APK bytes linked to primary MD5 reports, and four Jamf-reported MobiDash APKs from May 2026.
 - 470 package-name advisories from Bitdefender's Vapor (March 2025) and HUMAN Satori's IconAds (July 2025) campaigns. The app shows these only as "suspicious app", never as a confirmed detection, because earlier clean versions can share a package name.
@@ -64,3 +64,6 @@ Four exact whole-APK SHA256 facts are attributed to Jamf Threat Labs’ May13,20
 https://www.jamf.com/blog/mobidash-android-ad-fraud-click-injection-analysis/
 
 Only factual artifact identifiers and the source URL are included. No report prose, images, software or original APKs are distributed; no vendor licence or endorsement is claimed. These four additions have not been tested against acquired original samples. They do not match an entire package, signer, advertising SDK or unreported variant. Source-reported adware classification does not prove ownership of a current popup. The previous57 exact rule objects are unchanged.
+
+## Version history
+- v6 (2026-10-27): renewal, same rules, new 30-day validity.

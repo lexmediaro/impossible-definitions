@@ -1,9 +1,12 @@
 {
-  "version": 5,
+  "version": 6,
   "rules": 568,
-  "issuedAtMs": 1791233152595,
-  "expiresAtMs": 1793825152595,
-  "envelopeSha256": "4dbd55af8dd9cf42e9691d194aed1e311b27c39a1fc0c66bda85cde2c421c9e6",
+  "scope": "98 source-reviewed exact APK indicators (version 4's 61 plus 37 Zimperium-published Necro.N whole-APK SHA256 facts) and 470 package-name advisories from the Vapor and IconAds campaigns, shown only as suspicious apps. Narrow source-based coverage; no per-APK live popup proof, package-only or SDK malware verdicts. Earlier original samples remain disclosed historical regressions, not held-out accuracy evidence.",
+  "manifestSha256": "9a928e68b586767ce1b2077ceed681842fea0d6121f332b710894b40030d5df2",
+  "payloadSha256": "cbf1f4c8a1f904f95f2075224507ca166e7c551b6b969a8e2c39750aacf5062b",
+  "payloadBytes": 257181,
+  "issuedAtMs": 1793104421771,
+  "expiresAtMs": 1795696421771,
   "publicKeyDerBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAESCr9qvh8BcGbKu2oQ7t+SL97U8o1xeQoVOr5h4mM6b3EY5+kWe0N85JQmHzfrZYyeKKzOykX/8Z6JfwUPKaFyg==",
-  "scope": "98 source-reviewed exact APK indicators (version 4's 61 plus 37 Zimperium-published Necro.N whole-APK SHA256 facts) and 470 package-name advisories from the Vapor and IconAds campaigns, shown only as suspicious apps. Narrow source-based coverage; no per-APK live popup proof, package-only or SDK malware verdicts. Earlier original samples remain disclosed historical regressions, not held-out accuracy evidence."
+  "envelopeSha256": "68253cd306e4cb65f4cc9167115e25ece058a231bf0f85ef825d2138c50e553c"
 }
